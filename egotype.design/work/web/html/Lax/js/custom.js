@@ -1349,8 +1349,8 @@ $(document).ready(function () {
 
       // points marker info and coordinates
       var points = [
-        ['<div class="wrapper"><h4>Kounter Office</h4><h5>Opening Hours</h5><p>Mo – Fr: 08:30 – 20:00</p></div>', 40.7486332, -73.9797129],
-        ['<div class="wrapper"><h4>Kounter Agency</h4><h5>Opening Hours</h5><p>Mo – Fr: 08:30 – 20:00</p></div>', 40.66810, -73.94480]
+        ['<div class="wrapper"><h4>Lax photography Office</h4><h5>Opening Hours</h5><p>Mo – Fr: 08:30 – 20:00</p></div>', 40.7486332, -73.9797129],
+        ['<div class="wrapper"><h4>Lax photography Agency</h4><h5>Opening Hours</h5><p>Mo – Fr: 08:30 – 20:00</p></div>', 40.66810, -73.94480]
       ];
       // marker
       var iconMarker = 'images/marker.png';
